@@ -15,7 +15,7 @@ pipeline-stream-view: if you have a jenkins Pipeline for build, another Pipeline
 
 ## Screenshots
 
-![Screenshot](https://github.com/jenkins-pipeline-streams-view-plugin/master/static/pipelines-stream-view.png)
+![Screenshot](https://github.com/rhaymo/jenkins-pipeline-streams-view-plugin/blob/master/static/pipeline-streams-view.png)
 
 Requirements
 ---
