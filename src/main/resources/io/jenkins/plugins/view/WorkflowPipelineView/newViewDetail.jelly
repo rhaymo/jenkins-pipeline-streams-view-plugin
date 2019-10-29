@@ -1,0 +1,5 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Pipeline Streams View.
+    Shows one or more delivery pipeline instances, based on Jenkins pipelines created using Jenkinsfile.
+</div>
